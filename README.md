@@ -29,7 +29,7 @@ Thank you for visiting the Jumpy GitHub repository! Jumpy is a small, open sourc
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/shubhamhackz/day_night_login/compare/" target="_blank">`https://github.com/shubhamhackz/day_night_login/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/shubhamhackz/jumpy/compare/" target="_blank">`https://github.com/shubhamhackz/jumpy/compare/`</a>.
 
 ---
 
