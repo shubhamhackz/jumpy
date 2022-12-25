@@ -1,7 +1,9 @@
 # Jumpy
 Made with 🔥 and Flutter
 
-Thank you for visiting the Jumpy GitHub repository! Jumpy is a small, open source mobile game that is developed with Flame and Flutter. The purpose of this project is to demonstrate the capabilities of Flame + Flutter and how they can be used together to create engaging and interactive mobile games with little effort. I hope that this project serves as an inspiration for others looking to develop their own mobile games using Flame and Flutter. If you have any questions or suggestions, please don't hesitate to reach out and let us know. Happy coding!
+Thank you for visiting the Jumpy GitHub repository! Jumpy is a small, open source mobile game that is developed with Flame and Flutter. The purpose of this project is to demonstrate the capabilities of Flame + Flutter and how they can be used together to create engaging and interactive mobile games with little effort. I hope that this project serves as an inspiration for others looking to develop their own mobile games using Flame and Flutter. If you have any questions or suggestions, please don't hesitate to reach out and let us know.
+
+Happy coding!
 
 ![Jumpy Game Preview](https://github.com/shubhamhackz/jumpy/blob/main/files/jumpy.gif)
 
